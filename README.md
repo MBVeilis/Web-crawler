@@ -1,5 +1,5 @@
 # Web-crawler
-Multi-domain crawling spider using scrapy
+Multi-domain crawling spider using Python and Scrapy
 
 
 ###### Links:
